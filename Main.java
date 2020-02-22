@@ -33,6 +33,6 @@ int b=sc.nextInt();
 Main.addition(a,b);
 Main.subtraction(a,b);
 Main.multiplication(a,b);
-
+Main.division(a,b);
 }}
 
